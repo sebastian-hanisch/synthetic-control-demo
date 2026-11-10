@@ -3,7 +3,7 @@ Sebastian Hanisch - Operations Research und Machine Learning
 
 Elftes Stück der Konzepte-Linie "Experimente und Wirkungsmessung": Ein einzelner Standort bekommt eine neue Bestandsregel, die
 übrigen nicht. Wie viel lässt sich aus Vorher-Nachher, Differenz-von-Differenzen und synthetischer Kontrolle über die Wirkung
-sagen, und wann tragen die Kontrollen nichts mehr? Bekannte Wirkung, vier Schätzer, Placebo-Inferenz. Siehe README.
+sagen, und wann helfen die Kontrollen nichts mehr? Bekannte Wirkung, vier Schätzer, Placebo-Inferenz. Siehe README.
 
 Lauffähig mit: streamlit run app.py
 """

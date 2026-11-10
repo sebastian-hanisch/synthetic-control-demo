@@ -10,7 +10,7 @@ zugeteilt: ein Standort bekommt die neue Regel, die übrigen nicht, und es gibt 
 ## Kernfrage
 
 Wenn man nur einen Standort umstellen kann und es keine Zufallszuteilung gibt: was sagen Vorher-Nachher, Differenz-von-Differenzen
-(DiD) und synthetische Kontrolle (SC) über die Wirkung, und wann tragen die Kontrollen nichts mehr?
+(DiD) und synthetische Kontrolle (SC) über die Wirkung, und wann helfen die Kontrollen nichts mehr?
 
 ## Modell und Methodik
 
